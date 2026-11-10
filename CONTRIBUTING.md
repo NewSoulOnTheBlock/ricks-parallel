@@ -1,4 +1,4 @@
-# Contributing to Rick's Parallel
+# Contributing to Runners from The Block
 
 Everyone is welcome: programmers, artists, writers, musicians, playtesters, and people whose main skill is steering an AI well.
 

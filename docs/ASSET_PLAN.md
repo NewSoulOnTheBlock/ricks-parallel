@@ -1,6 +1,6 @@
 # 3D Asset Plan
 
-The working plan for every model in Rick's Parallel. Budgets assume the proposed browser (Three.js) target; multiply by roughly 3 to 4 if the team chooses Unity or Unreal.
+The working plan for every model in Runners from The Block. Budgets assume the proposed browser (Three.js) target; multiply by roughly 3 to 4 if the team chooses Unity or Unreal.
 
 ## Conventions
 

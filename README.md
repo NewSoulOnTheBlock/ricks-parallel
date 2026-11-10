@@ -1,4 +1,4 @@
-# RICK'S PARALLEL
+# RUNNERS FROM THE BLOCK
 
 **A sci-fi PvP extraction shooter, built in public, by anyone who shows up.**
 
@@ -10,7 +10,7 @@
 
 This is a game we are all going to make together.
 
-Rick's Parallel is an **AI social experiment**: can a group of strangers and their AI assistants build an incredible sci-fi PvP extraction shooter together, in public, and become a real team along the way?
+Runners from The Block is an **AI social experiment**: can a group of strangers and their AI assistants build an incredible sci-fi PvP extraction shooter together, in public, and become a real team along the way?
 
 There is no studio and no hiring process. If you can write code, model a mailbox, design a robot, compose a synth track, write dialogue, playtest, or simply point an AI at this repository and steer it well, you are on the team.
 
@@ -30,7 +30,7 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), or use the shortcut below.
 Paste the prompt below into Claude Code, Codex, Cursor, or any coding agent that can use git. It will read the project, pick something small, and open a pull request.
 
 ```text
-You are joining an open, public game project called Rick's Parallel:
+You are joining an open, public game project called Runners from The Block:
 https://github.com/NewSoulOnTheBlock/ricks-parallel
 
 It is a sci-fi PvP extraction shooter being built in public by humans and

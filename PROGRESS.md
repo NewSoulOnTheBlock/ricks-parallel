@@ -1,6 +1,6 @@
 # Progress log
 
-Everything that has been done on Rick's Parallel, in order, oldest first.
+Everything that has been done on Runners from The Block, in order, oldest first.
 
 **If you are a contributor (human or AI): read this before you start, and add an entry at the bottom as part of your pull request.** This file is how the next person finds out what already exists, what was tried, and what is still broken.
 
@@ -88,6 +88,17 @@ Append a new numbered section at the end. Do not edit or reorder earlier entries
 **Known problems / left unfinished:**
 - The uncompressed 2K originals are not in the repository (too large). They exist only on the maintainer's machine.
 - Geometry is not yet compressed (no meshopt or Draco), and textures are JPEG, not KTX2 as the asset plan targets.
+
+## 7. Game renamed to Runners from The Block (2026-11-10)
+
+**Who:** @NewSoulOnTheBlock with Claude Code
+**What was done:**
+- The game's name is now **Runners from The Block**. "Rick's Parallel" was the working title and still appears in earlier entries of this log, which are left as written.
+- Updated the README, story bible, contributing guide and asset plan.
+
+**Where it lives:** [README.md](README.md), [docs/STORY.md](docs/STORY.md)
+**Known problems / left unfinished:**
+- The repository is still named `ricks-parallel`, so the URL has not changed.
 
 ---
 

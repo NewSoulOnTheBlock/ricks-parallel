@@ -1,4 +1,4 @@
-# RICK'S PARALLEL
+# RUNNERS FROM THE BLOCK
 
 **A sci-fi extraction adventure. Story and world bible.**
 
