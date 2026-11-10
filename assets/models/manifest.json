@@ -1,0 +1,479 @@
+{
+  "chr_soldier_t0": {
+    "category": "chr",
+    "prompt": "Full-body game character: a military veteran turned suburban neighborhood defender, short hair, wearing a tactical plate carrier over a plaid flannel shirt and jeans, hockey shoulder pads and knee pads as improvised armor, work boots, standing upright.",
+    "polycount": 20000,
+    "previewId": "01a1c4cb-b7a0-77a9-b24f-3d69397a6e86",
+    "status": "done",
+    "refineId": "01a1c4cc-2970-72e0-a86e-4d384c2dd113",
+    "file": "chr_soldier_t0.glb"
+  },
+  "prp_mailbox": {
+    "category": "prp",
+    "prompt": "A classic American curbside mailbox on a wooden post, rounded metal box with a small red flag.",
+    "polycount": 1500,
+    "previewId": "01a1c4cb-b796-75e0-a2c5-bc1ce7b38b38",
+    "status": "done",
+    "refineId": "01a1c4cb-ff2d-72da-8a4e-6ad5d6c3d812",
+    "file": "prp_mailbox.glb"
+  },
+  "chr_techy_t0": {
+    "category": "chr",
+    "prompt": "Full-body game character: a young electronics engineer scavenger wearing a hoodie, cargo pants and sneakers, safety goggles pushed up on the forehead, a homemade backpack with radio antennas and exposed wiring, tool belt with screwdrivers, standing upright.",
+    "polycount": 20000,
+    "previewId": "01a1c4cc-f923-7174-ae55-40278000bc35",
+    "status": "done",
+    "refineId": "01a1c4cd-6a62-771e-baef-7351e50e7988",
+    "file": "chr_techy_t0.glb"
+  },
+  "chr_rogue_t0": {
+    "category": "chr",
+    "prompt": "Full-body game character: a slim street-smart scavenger wearing a hooded jacket, bandana around the neck, mechanic gloves, messenger bags slung across the body, ripped jeans and high-top sneakers, standing upright.",
+    "polycount": 20000,
+    "previewId": "01a1c4cc-f917-73e5-91bc-4a787d9d6c60",
+    "status": "done",
+    "refineId": "01a1c4cd-6b20-7094-90c1-35e857b41ca7",
+    "file": "chr_rogue_t0.glb"
+  },
+  "chr_rick_halden": {
+    "category": "chr",
+    "prompt": "Full-body game character: a stocky middle-aged scientist with a bald head, thick round glasses and a full grey beard, wearing a scorched orange welding apron over a brown cardigan, rubber boots, heavy rubber gloves, standing upright.",
+    "polycount": 20000,
+    "previewId": "01a1c4cc-f922-7050-97b9-e671f60348a1",
+    "status": "done",
+    "refineId": "01a1c4cd-7fa6-70c4-b4dd-ce7838f43541",
+    "file": "chr_rick_halden.glb"
+  },
+  "chr_resident_dad": {
+    "category": "chr",
+    "prompt": "Full-body game character: a suburban dad with a mustache and baseball cap, polo shirt, khaki shorts, white sneakers and tall socks, a cooking pot lid strapped to his forearm as a shield, standing upright.",
+    "polycount": 12000,
+    "previewId": "01a1c4cc-f921-75de-9761-c080658c4189",
+    "status": "done",
+    "refineId": "01a1c4cd-55dc-7384-9000-66dc66f48c9b",
+    "file": "chr_resident_dad.glb"
+  },
+  "chr_resident_teacher": {
+    "category": "chr",
+    "prompt": "Full-body game character: a middle-school science teacher turned robotics engineer, woman with hair in a bun, cardigan with rolled sleeves, lanyard, tool apron holding wrenches and circuit boards, slacks and sturdy shoes, standing upright.",
+    "polycount": 12000,
+    "previewId": "01a1c4cc-f92a-7419-9f36-7bc445b98456",
+    "status": "done",
+    "refineId": "01a1c4cd-6b22-7495-bb0c-eb74901ae5d7",
+    "file": "chr_resident_teacher.glb"
+  },
+  "chr_resident_firefighter": {
+    "category": "chr",
+    "prompt": "Full-body game character: a firefighter turned field medic wearing a tan turnout coat with reflective stripes, a red cross armband, medical satchel, helmet, heavy boots, standing upright.",
+    "polycount": 12000,
+    "previewId": "01a1c4cd-d623-7457-8d54-e76b8d26f0dc",
+    "status": "done",
+    "refineId": "01a1c4ce-4676-7032-9717-759e1eed1d80",
+    "file": "chr_resident_firefighter.glb"
+  },
+  "wpn_leafblower_cannon": {
+    "category": "wpn",
+    "prompt": "An improvised weapon made from a gas-powered leaf blower: the blower tube reinforced with duct tape and hose clamps, a hopper of nuts and bolts mounted on top, a wooden shoulder stock bolted on, a bicycle brake lever as the trigger.",
+    "polycount": 6000,
+    "previewId": "01a1c4cd-eb8c-774b-b640-96f39e7ddcc3",
+    "status": "done",
+    "refineId": "01a1c4ce-3219-7079-a4eb-b1352272ef2b",
+    "file": "wpn_leafblower_cannon.glb"
+  },
+  "wpn_nailgun_rifle": {
+    "category": "wpn",
+    "prompt": "An improvised rifle built from a pneumatic framing nail gun, with a small air tank strapped underneath, a sawn-off wooden stock, a coil of air hose, and a strip of nails as the magazine.",
+    "polycount": 6000,
+    "previewId": "01a1c4cd-ed01-7521-97cc-73319dd77a0b",
+    "status": "done",
+    "refineId": "01a1c4ce-46d6-746e-9ddf-f3c06bb7569a",
+    "file": "wpn_nailgun_rifle.glb"
+  },
+  "wpn_potato_launcher": {
+    "category": "wpn",
+    "prompt": "An improvised launcher weapon made from white PVC plumbing pipe, with a barbecue igniter button, duct tape grip wrap and a shoulder strap made from a seat belt.",
+    "polycount": 5000,
+    "previewId": "01a1c4cd-fe59-732f-b2b4-e57e6d165be6",
+    "status": "done",
+    "refineId": "01a1c4ce-45e5-71bc-971c-8120029ba39a",
+    "file": "wpn_potato_launcher.glb"
+  },
+  "wpn_bat_spiked": {
+    "category": "wpn",
+    "prompt": "An aluminum baseball bat modified into a melee weapon, with saw blades bolted near the tip and grip tape on the handle.",
+    "polycount": 3000,
+    "previewId": "01a1c4cd-ff93-7722-82b0-be84ad658770",
+    "status": "done",
+    "refineId": "01a1c4ce-999b-77c8-9962-2fc896d8892a",
+    "file": "wpn_bat_spiked.glb"
+  },
+  "wpn_police_pistol": {
+    "category": "wpn",
+    "prompt": "A generic fictional semi-automatic police service pistol, black polymer frame, simple blocky design, small flashlight under the barrel.",
+    "polycount": 4000,
+    "previewId": "01a1c4ce-c7bd-77a2-b2bb-850d2f18ff01",
+    "status": "done",
+    "refineId": "01a1c4cf-0df4-70ed-a729-d25fca3f1551",
+    "file": "wpn_police_pistol.glb"
+  },
+  "wpn_pump_shotgun": {
+    "category": "wpn",
+    "prompt": "A generic fictional pump-action shotgun with a worn wooden stock and pump, shell holder on the side, scuffed steel barrel.",
+    "polycount": 5000,
+    "previewId": "01a1c4ce-c8d3-7608-afea-74b712027f97",
+    "status": "done",
+    "refineId": "01a1c4cf-0e83-74a3-b2f8-857fd87c6d87",
+    "file": "wpn_pump_shotgun.glb"
+  },
+  "wpn_convoy_rifle": {
+    "category": "wpn",
+    "prompt": "A fictional military assault rifle of unfamiliar design, angular olive-green body, boxy magazine, integrated carry handle sight, slightly retro-futuristic.",
+    "polycount": 6000,
+    "previewId": "01a1c4ce-c964-7732-b68c-eb94c23aeadc",
+    "status": "done",
+    "refineId": "01a1c4cf-0f06-718d-afc2-95d0af423089",
+    "file": "wpn_convoy_rifle.glb"
+  },
+  "wpn_harpoon_gun": {
+    "category": "wpn",
+    "prompt": "An improvised underwater harpoon gun built from a scuba tank valve, steel tubing and a fishing reel, with a barbed steel harpoon loaded.",
+    "polycount": 5000,
+    "previewId": "01a1c4ce-db76-74d2-9172-e4ea536b0b82",
+    "status": "done",
+    "refineId": "01a1c4cf-2215-76bd-9239-f5d517e40836",
+    "file": "wpn_harpoon_gun.glb"
+  },
+  "wpn_observer_rifle": {
+    "category": "wpn",
+    "prompt": "An alien energy rifle made of seamless smooth pale silver metal with no visible screws or seams, flowing organic curves, a softly glowing violet core visible through a slot in the body.",
+    "polycount": 6000,
+    "previewId": "01a1c4cf-1763-76a3-816d-f2bce91edc84",
+    "status": "done",
+    "refineId": "01a1c4cf-6017-7296-89e8-70bf15362a91",
+    "file": "wpn_observer_rifle.glb"
+  },
+  "enm_patrol_bot": {
+    "category": "enm",
+    "prompt": "A small autonomous patrol robot the size of a dog, a rounded cream-colored shell on three wheels, a single large round camera eye, a small warning light on top, faded municipal markings.",
+    "polycount": 6000,
+    "previewId": "01a1c4cf-79fd-7036-a506-c28de76f4d4e",
+    "status": "done",
+    "refineId": "01a1c4d0-3abb-75f8-b627-f6641942f952",
+    "file": "enm_patrol_bot.glb"
+  },
+  "enm_security_robot": {
+    "category": "enm",
+    "prompt": "A tall bipedal security robot with thick removable armor plates on the chest and shins, a narrow visor head, bulky forearms, dusty navy blue and white paint, exposed hydraulic joints.",
+    "polycount": 12000,
+    "previewId": "01a1c4cf-7a1f-7365-94a1-7020b5df142d",
+    "status": "done",
+    "refineId": "01a1c4cf-d31c-738c-8572-089df8f79a2a",
+    "file": "enm_security_robot.glb"
+  },
+  "enm_scout_drone": {
+    "category": "enm",
+    "prompt": "A hovering security scout drone with a spherical body, four ducted fans, a red scanning lens and two small antennae.",
+    "polycount": 6000,
+    "previewId": "01a1c4cf-7c21-728c-aded-332c9aa6df7f",
+    "status": "done",
+    "refineId": "01a1c4cf-c0e8-729b-aad4-edb5457f775b",
+    "file": "enm_scout_drone.glb"
+  },
+  "enm_auto_turret": {
+    "category": "enm",
+    "prompt": "An automated ceiling-or-floor mounted sentry turret on a rotating base, twin barrels, armored housing, a sensor lens, hazard stripes.",
+    "polycount": 6000,
+    "previewId": "01a1c4cf-8b9b-76a0-a3b5-61d708727835",
+    "status": "done",
+    "refineId": "01a1c4cf-d225-71df-8ad2-450af2eb619b",
+    "file": "enm_auto_turret.glb"
+  },
+  "enm_mech_spider": {
+    "category": "enm",
+    "prompt": "A giant mechanical spider machine with six long jointed legs, a smooth armored dome body, a cluster of glowing sensor eyes underneath, heavy industrial construction.",
+    "polycount": 18000,
+    "previewId": "01a1c4cf-c97e-76d3-822d-ce7f2c6a6c38",
+    "status": "done",
+    "refineId": "01a1c4d0-6498-7721-8f57-04ad44bbd4d3",
+    "file": "enm_mech_spider.glb"
+  },
+  "enm_mech_hound": {
+    "category": "enm",
+    "prompt": "A mechanical wildlife predator shaped like a lean four-legged hound, built from pistons and scavenged armor plates, a sensor strip instead of eyes, cables along its spine.",
+    "polycount": 10000,
+    "previewId": "01a1c4d0-2a63-77ed-be47-a742d93de352",
+    "status": "done",
+    "refineId": "01a1c4d0-8795-70dc-be61-6af3276993f8",
+    "file": "enm_mech_hound.glb"
+  },
+  "enm_alien_grazer": {
+    "category": "enm",
+    "prompt": "A strange docile alien herbivore creature, six-legged, with a humped back covered in bark-like plates, a long neck and no visible eyes, purple and teal skin.",
+    "polycount": 10000,
+    "previewId": "01a1c4d0-65d7-74a9-94ee-cff8ad7aff53",
+    "status": "done",
+    "refineId": "01a1c4d0-aaac-77da-a1f0-d2fd4d62b768",
+    "file": "enm_alien_grazer.glb"
+  },
+  "enm_lazarus_organism": {
+    "category": "enm",
+    "prompt": "A mutated laboratory organism creature, hunched quadruped with translucent pale skin, fungal growths along its back, too many small eyes, long forelimbs.",
+    "polycount": 12000,
+    "previewId": "01a1c4d0-67a0-7100-afab-c1bb758ccf13",
+    "status": "done",
+    "refineId": "01a1c4d0-c1b3-7492-b11a-26d3cae41ff5",
+    "file": "enm_lazarus_organism.glb"
+  },
+  "enm_subject_zero": {
+    "category": "enm",
+    "prompt": "A tall unsettling interdimensional creature with a thin elongated humanoid torso, crystalline mineral growths replacing parts of its body, smooth featureless face, long arms, iridescent dark skin.",
+    "polycount": 15000,
+    "previewId": "01a1c4d0-df94-76e9-aa3f-17cda9f67f51",
+    "status": "done",
+    "refineId": "01a1c4d1-3a8f-74b3-944c-05412c9b912a",
+    "file": "enm_subject_zero.glb"
+  },
+  "enm_aquatic_lurker": {
+    "category": "enm",
+    "prompt": "An alien aquatic predator creature, eel-like body with wide translucent fins, a lantern-like glowing lure, rows of small teeth, coral growths on its back.",
+    "polycount": 10000,
+    "previewId": "01a1c4d0-f4ff-7382-8789-8d6540c6311a",
+    "status": "done",
+    "refineId": "01a1c4d1-3ab6-7515-b696-809d7b7984da",
+    "file": "enm_aquatic_lurker.glb"
+  },
+  "enm_observer_unit": {
+    "category": "enm",
+    "prompt": "An alien sentinel machine made of seamless smooth pale silver metal, a floating teardrop-shaped body with three slender blade-like arms, one glowing violet eye, no visible joints or screws.",
+    "polycount": 12000,
+    "previewId": "01a1c4d1-17fb-7469-b275-477d4c3d420a",
+    "status": "done",
+    "refineId": "01a1c4d1-b0c9-771a-aeed-d76ba371e761",
+    "file": "enm_observer_unit.glb"
+  },
+  "enm_convoy_boss": {
+    "category": "enm",
+    "prompt": "A huge burrowing mechanical organism boss that has fused with a wrecked armored military truck: a segmented worm-like machine body with drilling mandibles, truck cab and wheels embedded in its back, cables and plating grown over the vehicle.",
+    "polycount": 28000,
+    "previewId": "01a1c4d1-5345-710a-b786-5f5060dc2d79",
+    "status": "done",
+    "refineId": "01a1c4d1-ad1b-7378-b7e6-e021b899dc62",
+    "file": "enm_convoy_boss.glb"
+  },
+  "bld_house_ranch": {
+    "category": "bld",
+    "prompt": "A single-story American suburban ranch house with beige siding, a grey shingle roof, an attached garage, a front porch and a small chimney, complete exterior.",
+    "polycount": 10000,
+    "previewId": "01a1c4d1-6646-76c2-87e0-05221d3d820d",
+    "status": "done",
+    "refineId": "01a1c4d1-c130-7564-80ad-04ee69ddc69d",
+    "file": "bld_house_ranch.glb"
+  },
+  "bld_house_two_story": {
+    "category": "bld",
+    "prompt": "A two-story American suburban family house with light blue siding, white trim, a pitched roof, a front door with steps and a bay window, complete exterior.",
+    "polycount": 10000,
+    "previewId": "01a1c4d1-a44e-70a0-b78b-ae03cad6a1a6",
+    "status": "done",
+    "refineId": "01a1c4d2-00ed-70fe-896c-e701c11b4700",
+    "file": "bld_house_two_story.glb"
+  },
+  "bld_high_school": {
+    "category": "bld",
+    "prompt": "A small American brick high school building with a flat roof, wide front entrance steps, a flagpole, rows of windows and a gymnasium wing, with sandbag barricades and a radio antenna added on the roof.",
+    "polycount": 12000,
+    "previewId": "01a1c4d1-b9c1-7788-92f6-26a56779aad0",
+    "status": "done",
+    "refineId": "01a1c4d2-1592-7395-b1d9-d5806abd9f26",
+    "file": "bld_high_school.glb"
+  },
+  "bld_grocery_store": {
+    "category": "bld",
+    "prompt": "A small suburban grocery store building with a wide glass front, a blank red sign band above the entrance, a covered cart area, a flat roof with air conditioning units.",
+    "polycount": 10000,
+    "previewId": "01a1c4d2-4558-771b-a464-695c63f37e91",
+    "status": "done",
+    "refineId": "01a1c4d2-a14a-724c-bc3e-b82c3114e8b9",
+    "file": "bld_grocery_store.glb"
+  },
+  "bld_fire_station": {
+    "category": "bld",
+    "prompt": "A small-town red brick fire station with two large garage bay doors, a hose tower, a flat roof and a side entrance.",
+    "polycount": 10000,
+    "previewId": "01a1c4d2-4753-7591-bf8f-3fc6232b8c00",
+    "status": "done",
+    "refineId": "01a1c4d2-924b-732c-a27b-ff66525c5f97",
+    "file": "bld_fire_station.glb"
+  },
+  "bld_gas_station": {
+    "category": "bld",
+    "prompt": "A suburban gas station with a flat canopy over four fuel pumps and a small convenience store building, blank signage.",
+    "polycount": 10000,
+    "previewId": "01a1c4d2-56de-7532-92c7-f425ed0b5db5",
+    "status": "done",
+    "refineId": "01a1c4d2-af10-7594-a55a-f46e80189fea",
+    "file": "bld_gas_station.glb"
+  },
+  "bld_ricks_house": {
+    "category": "bld",
+    "prompt": "A suburban house converted into a mad scientist's laboratory, surrounded by a tall wooden privacy fence with warning signs, a satellite dish and strange antenna array on the roof, thick cables running out of a scorched garage.",
+    "polycount": 12000,
+    "previewId": "01a1c4d2-9510-7352-9fa1-ab78a178eb38",
+    "status": "done",
+    "refineId": "01a1c4d3-0240-7245-8387-6e25413c4d80",
+    "file": "bld_ricks_house.glb"
+  },
+  "bld_hardware_store": {
+    "category": "bld",
+    "prompt": "A small-town hardware store building with a brick front, a striped awning, a blank sign, stacked lumber and propane tanks displayed outside.",
+    "polycount": 10000,
+    "previewId": "01a1c4d2-a6ea-73fd-8edb-6cb604c13f8b",
+    "status": "done",
+    "refineId": "01a1c4d2-ff66-77ba-892c-b68ab52eb9b0",
+    "file": "bld_hardware_store.glb"
+  },
+  "prp_alien_tree_tall": {
+    "category": "prp",
+    "prompt": "A tall alien tree with a smooth twisting teal trunk and a canopy of large translucent purple disc-shaped leaves.",
+    "polycount": 4000,
+    "previewId": "01a1c4d3-23bb-75ac-8cdd-370cecc5f72a",
+    "status": "done",
+    "refineId": "01a1c4d3-6b36-778c-96f4-cff1fdb4c656",
+    "file": "prp_alien_tree_tall.glb"
+  },
+  "prp_alien_tree_bulb": {
+    "category": "prp",
+    "prompt": "A squat alien tree with a bulbous swollen trunk, coral-like branches and glowing orange seed pods.",
+    "polycount": 4000,
+    "previewId": "01a1c4d3-4066-71f1-80a0-d0a77ce6354e",
+    "status": "done",
+    "refineId": "01a1c4d3-99d1-7198-8da5-d431b6595aea",
+    "file": "prp_alien_tree_bulb.glb"
+  },
+  "prp_sedan_abandoned": {
+    "category": "prp",
+    "prompt": "An abandoned generic four-door family sedan car, dusty faded paint, one flat tire, vines growing over the hood.",
+    "polycount": 5000,
+    "previewId": "01a1c4d3-45fd-7590-9d9f-e3803e7787f7",
+    "status": "done",
+    "refineId": "01a1c4d3-9dc5-7002-93a6-6f4da86abfc7",
+    "file": "prp_sedan_abandoned.glb"
+  },
+  "prp_pickup_truck": {
+    "category": "prp",
+    "prompt": "A generic old pickup truck fitted for scavenging runs, with welded steel plates on the doors, a roof rack with jerry cans and a spare tire in the bed.",
+    "polycount": 5000,
+    "previewId": "01a1c4d3-90eb-75ad-8c96-1f0b828f4ef8",
+    "status": "done",
+    "refineId": "01a1c4d3-d6f3-71e8-90eb-becd4669ec8d",
+    "file": "prp_pickup_truck.glb"
+  },
+  "prp_shopping_cart": {
+    "category": "prp",
+    "prompt": "A metal supermarket shopping cart loaded with canned food and water jugs.",
+    "polycount": 2500,
+    "previewId": "01a1c4d3-9417-756a-8c02-ef44d875ebdb",
+    "status": "done",
+    "refineId": "01a1c4d3-ee7e-72df-9b02-be4dab586504",
+    "file": "prp_shopping_cart.glb"
+  },
+  "prp_picket_fence": {
+    "category": "prp",
+    "prompt": "A straight section of white wooden picket fence, four metres long, slightly weathered.",
+    "polycount": 1500,
+    "previewId": "01a1c4d3-e8a6-75b2-9d74-8518deb53c8f",
+    "status": "done",
+    "refineId": "01a1c4d4-4454-7112-8451-4ddc04d8e620",
+    "file": "prp_picket_fence.glb"
+  },
+  "prp_supply_crate": {
+    "category": "prp",
+    "prompt": "A rugged olive-green military supply crate with metal latches, corner guards and stencil markings.",
+    "polycount": 2000,
+    "previewId": "01a1c4d4-174b-7637-8cf3-fa777f423911",
+    "status": "done",
+    "refineId": "01a1c4d4-7275-769d-9d4b-e15bbc4b09d2",
+    "file": "prp_supply_crate.glb"
+  },
+  "prp_convoy_wreck": {
+    "category": "prp",
+    "prompt": "A destroyed eight-wheeled armored military transport vehicle lying tilted, torn open hull, scorched olive-green armor, missing wheels.",
+    "polycount": 8000,
+    "previewId": "01a1c4d4-1a7b-73c7-8ab4-4318443e4bc6",
+    "status": "done",
+    "refineId": "01a1c4d4-742c-749a-90d1-f71270d71d4e",
+    "file": "prp_convoy_wreck.glb"
+  },
+  "prp_extraction_beacon": {
+    "category": "prp",
+    "prompt": "A portable extraction signal beacon: a tripod-mounted device built from a road flare launcher, a car battery, a rotating amber warning light and a tall radio antenna.",
+    "polycount": 4000,
+    "previewId": "01a1c4d4-5401-779e-8152-34bae5282e3c",
+    "status": "done",
+    "refineId": "01a1c4d4-9b12-7357-9781-7b702bf075df",
+    "file": "prp_extraction_beacon.glb"
+  },
+  "prp_displacement_engine": {
+    "category": "prp",
+    "prompt": "A garage-built dimensional portal machine: a large upright metal ring wrapped in copper coils, fed by thick cables from stacked car batteries and repurposed microwave ovens, a control console made from an old desk with switches and dials.",
+    "polycount": 12000,
+    "previewId": "01a1c4d4-7eae-7691-bfe4-9eaeddb7cbe2",
+    "status": "done",
+    "refineId": "01a1c4d4-d90d-7070-be6b-cfe33a39ccc5",
+    "file": "prp_displacement_engine.glb"
+  },
+  "prp_generator": {
+    "category": "prp",
+    "prompt": "A portable gasoline generator on a wheeled frame, red fuel tank, pull cord, extension cords plugged in.",
+    "polycount": 3000,
+    "previewId": "01a1c4d4-c0ab-70d8-b8b1-846ba1c9b456",
+    "status": "done",
+    "refineId": "01a1c4d5-1927-743b-b48e-6fbfbf0e39b6",
+    "file": "prp_generator.glb"
+  },
+  "prp_barricade": {
+    "category": "prp",
+    "prompt": "An improvised street barricade made from a sofa, wooden pallets, a refrigerator door, tires and sandbags, lashed together with rope.",
+    "polycount": 3000,
+    "previewId": "01a1c4d5-0623-730e-810a-572c42c6a961",
+    "status": "done",
+    "refineId": "01a1c4d5-6370-7053-a07d-4f8f8a561451",
+    "file": "prp_barricade.glb"
+  },
+  "sty_baseball_coated": {
+    "category": "sty",
+    "prompt": "A baseball partly coated in a smooth frozen silver alien metal with frost crystals, red stitching still visible, a small folded paper note tied to it with string.",
+    "polycount": 1500,
+    "previewId": "01a1c4d5-2b54-74a5-8808-8779eec13a6b",
+    "status": "done",
+    "refineId": "01a1c4d5-85da-73ff-b464-a0ec96dd4c7f",
+    "file": "sty_baseball_coated.glb"
+  },
+  "sty_stabilizer": {
+    "category": "sty",
+    "prompt": "A dimensional stabilizer device: a heavy military cylinder in a protective cage frame with carry handles, a glowing blue core visible through armored glass, warning labels.",
+    "polycount": 4000,
+    "previewId": "01a1c4d5-4012-7001-ad58-1729c4c6c7d5",
+    "status": "done",
+    "refineId": "01a1c4d5-eb63-76a6-b43d-582212c8bd13",
+    "file": "sty_stabilizer.glb"
+  },
+  "sty_quantum_core": {
+    "category": "sty",
+    "prompt": "A quantum power core: a floating faceted crystal suspended inside three concentric metal rings, glowing white-blue.",
+    "polycount": 3000,
+    "previewId": "01a1c4d5-7f49-7287-bc4b-63292cac5c8f",
+    "status": "done",
+    "refineId": "01a1c4d5-ec4e-748d-be7b-e8d1d0fc4791",
+    "file": "sty_quantum_core.glb"
+  },
+  "itm_runner_backpack": {
+    "category": "itm",
+    "prompt": "A large scavenger backpack made from a hiking pack with a rolled sleeping mat, a cooking pot, a coil of rope, a water bottle and a small radio strapped to the outside.",
+    "polycount": 3000,
+    "previewId": "01a1c4d5-be0e-75fd-80da-75bffdefeef8",
+    "status": "done",
+    "refineId": "01a1c4d6-2a96-77cc-87c9-032809b50fe7",
+    "file": "itm_runner_backpack.glb"
+  }
+}

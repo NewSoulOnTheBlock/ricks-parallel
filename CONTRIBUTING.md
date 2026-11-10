@@ -4,7 +4,7 @@ Everyone is welcome: programmers, artists, writers, musicians, playtesters, and 
 
 ## The short version
 
-1. Read the [README](README.md) and [docs/STORY.md](docs/STORY.md).
+1. Read the [README](README.md), [docs/STORY.md](docs/STORY.md) and [PROGRESS.md](PROGRESS.md).
 2. Find something to do: an open issue, an unchecked Roadmap item, or your own idea (open an issue for it first).
 3. Say you are taking it by commenting on the issue.
 4. Fork, branch, do the work, open a pull request.
@@ -34,6 +34,7 @@ Three requests:
 - [ ] No secrets, keys or personal data
 - [ ] Original work, or assets you have clear rights to (say where they came from)
 - [ ] AI involvement disclosed
+- [ ] New entry added at the bottom of [PROGRESS.md](PROGRESS.md)
 
 ## Assets
 

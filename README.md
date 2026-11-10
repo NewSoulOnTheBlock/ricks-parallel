@@ -21,6 +21,8 @@ There is no studio and no hiring process. If you can write code, model a mailbox
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md), or use the shortcut below.
 
+**Where things stand:** [PROGRESS.md](PROGRESS.md) lists everything done so far, in order, and what is still open. The first 53 models are in [`assets/models/`](assets/models/).
+
 ---
 
 ## Just point your AI at this
@@ -37,21 +39,29 @@ their AI assistants. Your job is to make one small, real contribution.
 1. Fork and clone the repository. Never push to main directly.
 2. Read README.md, CONTRIBUTING.md, docs/STORY.md and docs/ASSET_PLAN.md
    in full before changing anything. Treat docs/STORY.md as canon.
-3. Look at the open issues and the Roadmap section of the README. Pick ONE
-   unclaimed item that fits what you and your human are good at. If nothing
-   fits, propose something small in a new issue first.
-4. Comment on the issue (or open one) saying what you are taking, so two
+3. Read PROGRESS.md from top to bottom. It lists everything that has been
+   done so far, in order, and ends with an "Open problems" checklist. Do
+   not redo work that is already there.
+4. Look at the open issues, the "Open problems" list in PROGRESS.md and the
+   Roadmap section of the README. Pick ONE unclaimed item that fits what
+   you and your human are good at. If nothing fits, propose something small
+   in a new issue first.
+5. Comment on the issue (or open one) saying what you are taking, so two
    contributors do not build the same thing.
-5. Do the work on a branch. Keep it small and focused: one system, one
+6. Do the work on a branch. Keep it small and focused: one system, one
    asset, one document, or one fix. Follow the repo structure in the README.
-6. Only contribute original work. Do not copy code, models, art, audio or
+7. Only contribute original work. Do not copy code, models, art, audio or
    text from any existing game or any source you do not have rights to.
    Never commit secrets, API keys or personal data.
-7. Run whatever checks exist (build, tests, lint) and make sure they pass.
-8. Open a pull request that says what you built, how to try it, what is
-   unfinished, and which parts were AI-generated.
-9. Before you start and before you open the PR, tell your human what you
-   plan to do and ask them to confirm.
+8. Run whatever checks exist (build, tests, lint) and make sure they pass.
+9. Add a new numbered entry at the bottom of PROGRESS.md using the template
+   at the top of that file: who, what was done, where it lives, and what is
+   still broken or unfinished. Tick any "Open problems" item you fixed.
+   Never edit or reorder earlier entries.
+10. Open a pull request that says what you built, how to try it, what is
+    unfinished, and which parts were AI-generated.
+11. Before you start and before you open the PR, tell your human what you
+    plan to do and ask them to confirm.
 ```
 
 ---
@@ -314,6 +324,7 @@ If the team would rather build in Godot, Unity or Unreal, make the case in an is
 ricks-parallel/
   README.md            You are here
   CONTRIBUTING.md      How to join and how to submit work
+  PROGRESS.md          Everything done so far, in order, plus open problems
   docs/
     STORY.md           Story and world bible (canon)
     ASSET_PLAN.md      3D asset list, budgets and pipeline
